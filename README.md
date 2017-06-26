@@ -22,5 +22,7 @@
 ## Links
 
 Project site: www.xamarinformslive.com
+
 Visual Studio extension: https://marketplace.visualstudio.com/items?itemName=ionoy.XamarinFormsLive-18843
+
 NuGet package: https://www.nuget.org/packages/XamarinFormsLive
