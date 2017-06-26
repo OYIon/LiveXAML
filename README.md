@@ -1,4 +1,4 @@
-# Xamarin Forms Live
+# ![logo](http://xamarinformslive.com/favicon-32x32.png) Xamarin Forms Live
 
 [Watch short video](https://vimeo.com/220310011)
 
