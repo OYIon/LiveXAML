@@ -1,6 +1,6 @@
 # ![logo](http://xamarinformslive.com/favicon-32x32.png) Xamarin Forms Live
 
-[Watch short video](https://vimeo.com/220310011)
+[Watch short video demonstration](https://vimeo.com/220310011)
 
 * Live XAML development for Xamarin Forms applications
 * Works on Android emulators and UWP (iOS coming soon)
