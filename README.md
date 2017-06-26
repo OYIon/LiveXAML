@@ -1,5 +1,7 @@
 # Xamarin Forms Live
 
+[Watch short video](https://vimeo.com/220310011)
+
 * Live XAML development for Xamarin Forms applications
 * Works on Android emulators and UWP (iOS coming soon)
 * Very simple installation (1-2 minutes)
